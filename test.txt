@@ -1,3 +1,7 @@
 starting text
+<<<<<<< HEAD
 
 fuckery
+=======
+test 1 branch
+>>>>>>> 3a6491ad109a1cfb5378448327d6ee32be82ecf2
